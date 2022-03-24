@@ -1,1 +1,2 @@
 # cheatsheet
+[python](python.md)
