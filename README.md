@@ -1,2 +1,6 @@
 # cheatsheet
-[python](python.md)
+
+## Languages
+- [python](python.md)
+- [golang](golang.md)
+- [R](r.md)
