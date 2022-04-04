@@ -43,7 +43,6 @@ lst.insert(idx, val)  # add val at idx
 lst.remove(val)  # remove first val in lst
 lst.pop(idx)  # pop val at idx
 ```
-## Tuple
 ## Dictionary
 ```python
 dct = {"A": "hello", "B": "world"}  # init with keys and vals
